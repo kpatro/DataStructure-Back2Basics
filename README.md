@@ -8,12 +8,13 @@ Nostalgia: Feels like I am back in c++ class of my High school.
 
 Also Feel free to validate, reuse and comment on this.
 
-Functionality Available. 
-  Adding an item with an index, value or randomly. 
-  Removing an item with index, value or randomly. 
-  Getting Index values of specific node value. 
-  Getting Length of Nodes. 
-  Printing Values in linked style. 
+Functionality Available.<br />
+  1. Adding an item with an index, value or randomly. <br />
+  2. Removing an item with index, value or randomly. <br />
+  3. Getting Index values of specific node value. 
+  4. Getting Length of Nodes. <br />
+  5. Printing Values in linked style. <br />
+  6. Finding Length of a given Object.<br />
 
 I have read and referred multiple sources to get to these.  
 

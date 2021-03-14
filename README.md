@@ -1,4 +1,5 @@
-# ds_back_to_basics
+# DataStructure-Back2Basics
+
 Python implementation for DataStructures
 
 A decade of IT experiance, however seems like we need a refresher between our daily daily repetative work at office.

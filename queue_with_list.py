@@ -1,16 +1,16 @@
 class Queue:
     def __init__(self, head=None):
-        self.storage = [head]
+        self.value = [head]
 
     def enqueue(self, new_element):
-        self.storage.append(new_element)
+        self.value.append(new_element)
 
     def peek(self):
-        return self.storage[0]
+        return self.value[0]
 
     def dequeue(self):
-        self.storage.pop(0)
+        self.value.pop(0)
 
     def print_all(self):
-        print(self.storage)
+        print(self.value)
         return

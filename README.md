@@ -1,4 +1,4 @@
-# DataStructure-Back2Basics
+# DataStructure
 
 Python implement of data structures :<br />
   1. Link List <br />
